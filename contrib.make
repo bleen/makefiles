@@ -57,6 +57,18 @@ projects[workbench_nodequeue][subdir] = contrib
 projects[workbench_nodequeue][download][type] = git
 projects[workbench_nodequeue][download][branch] = 7.x-1.x
 
+; Libraries
+; ---------
+libraries[writecapture][download][type] = git
+libraries[writecapture][download][url] = "https://github.com/iamnoah/writeCapture.git"
+libraries[writecapture][destination] = libraries
+libraries[writecapture][directory_name] = writecapture
+
+libraries[postscribe][download][type] = git
+libraries[postscribe][download][url] = "https://github.com/krux/postscribe.git"
+libraries[postscribe][destination] = libraries
+libraries[postscribe][directory_name] = postscribe
+
 ; Support Modules
 ; ---------------
 projects[admin_menu][subdir] = contrib
