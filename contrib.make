@@ -37,10 +37,10 @@ projects[html5_tools][subdir] = contrib
 projects[html5_tools][download][type] = git
 projects[html5_tools][download][branch] = 7.x-1.x
 
-projects[autocomplete_widget][type] = module
-projects[autocomplete_widget][subdir] = contrib
-projects[autocomplete_widget][download][type] = git
-projects[autocomplete_widget][download][branch] = 7.x-1.x
+projects[autocomplete_widgets][type] = module
+projects[autocomplete_widgets][subdir] = contrib
+projects[autocomplete_widgets][download][type] = git
+projects[autocomplete_widgets][download][branch] = 7.x-1.x
 
 projects[placeholder][type] = module
 projects[placeholder][subdir] = contrib
